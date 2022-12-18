@@ -1,1 +1,2 @@
-# mister-tasker-fronted
+# Coding Academy
+## Vue Frontend Starter
